@@ -3,6 +3,7 @@ title: Leo's Portfolio
 description: Blah blah blah
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leodong.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+destination: '/var/www/html/'
 
 # User settings
 username: Leo Dong
